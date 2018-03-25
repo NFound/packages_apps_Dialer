@@ -244,4 +244,13 @@
     <string name="view_conversation" msgid="7895904782094119702">"Посмотреть"</string>
     <string name="ec_data_deleted" msgid="4794880345545827107">"Вызов удален. Посмотреть и удалить прикрепленные к нему файлы можно в приложении \"Сообщения\"."</string>
     <string name="multiple_ec_data_deleted" msgid="2971579891973176316">"Вызовы удалены. Посмотреть и удалить прикрепленные к ним файлы можно в приложении \"Сообщения\"."</string>
+    <string name="speaker_settings_label">Датчик приближения и громкая связь</string>
+    <string name="prox_auto_speaker_title">Включение громкой связи по датчику приближения</string>
+    <string name="prox_auto_speaker_summary">Автоматически включать громкую связь при удалении телефона от уха</string>
+    <string name="prox_auto_speaker_delay_title">Задержка включения громкой связи</string>
+    <string name="prox_auto_speaker_delay_dialog_title">Задержка включения громкой связи в (мс)</string>
+    <string name="prox_auto_speaker_delay_summary">Громкая связь будет включена через <xliff:g id="number">%d</xliff:g> мс</string>
+    <string name="prox_auto_speaker_incall_only_title">Только во время вызова</string>
+    <string name="prox_auto_speaker_incall_only_summary_on">При исходящих звонках функция активируется только после ответа на вызов</string>
+    <string name="prox_auto_speaker_incall_only_summary_off">Функция активна при любых вызовах (по умолчанию)</string>
 </resources>
